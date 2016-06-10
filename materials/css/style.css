@@ -1,0 +1,10 @@
+th{
+    text-align: center;
+}
+
+td.text{
+    text-align:center;
+    position: relative;
+    top: -22.5%;
+    transform: translateY(22.5%);
+}
